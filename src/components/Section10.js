@@ -2,7 +2,7 @@ import React from 'react'
 
 function Section10() {
     return (
-    <div id="sec10">/
+    <div id="sec10">
         <div>
         <div className="row sec10-cd">
                 <div className="col-lg-2 col-md-3 sec10-cd">
